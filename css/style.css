@@ -1,0 +1,49 @@
+.container{
+	background: #00001a;
+}
+.head{
+	color: white;
+	list-style: none;
+}
+.block{
+	border: solid 2px white;
+}
+.menu{
+	padding: 15px;
+	float: right;
+	background: #000033;
+	list-style: none;
+	color: white;
+}
+.border{
+	border-radius: 10px;
+}
+.a{
+	text-decoration: none !important;
+	color: white;
+}
+.clearfix{
+	clear: both;
+}
+li:hover{
+	background: #00004d;
+}
+.men{
+	padding: 15px;
+	float: left;
+	background: #000033;
+	list-style: none;
+	color: white;
+}
+.float{
+	float: left;
+}
+.f{
+	float: left;
+}
+.m{
+	padding: 15px;
+	float: left;
+	list-style: none;
+	color: white;
+}
